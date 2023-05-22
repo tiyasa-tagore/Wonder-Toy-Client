@@ -1,8 +1,8 @@
-import logo from '../../assets/img/logo0.jpeg'
+import logo from '../../assets/img/logo0.jpg'
 const Footer = () => {
     return (
         <footer className="footer p-10 bg-base-200 text-base-content">
-  <img src={logo} alt=""  />
+  <img src={logo} width={250} alt=""  />
   <a className="link link-hover font-bold">Wonder Cars</a> 
   <span className="footer-title">Copyright- <br /> <span>Tiyasa Tagore</span></span>
   
