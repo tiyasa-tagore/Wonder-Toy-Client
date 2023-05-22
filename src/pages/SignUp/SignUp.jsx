@@ -1,4 +1,4 @@
-import { useContext } from "react";
+import { useContext, useState } from "react";
 import img from '../../assets/img/signup1.jpeg'
 import { AuthContext } from "../../Providers/AuthProvider";
 import { Link } from "react-router-dom";
@@ -7,6 +7,7 @@ import { FaGoogle } from "react-icons/fa";
 const SignUp = () => {
 
     const { createUser, googleSignIn } = useContext(AuthContext);
+    const [urlerror] = useState(null);
 
     const handleSignUp = event => {
         event.preventDefault();
@@ -54,6 +55,15 @@ const SignUp = () => {
                                 <input type="text" name='password' placeholder="password" className="input input-bordered" />
                                 
                             </div>
+                            <div className="form-control">
+                                <label className="label">
+                                    <span className="label-text">Photo URL</span>
+                                </label>
+                                <input type="text" name='photoURL' placeholder="photoURL" className="input input-bordered" required />
+                                {urlerror ? <p className='text-danger mt-2'>{urlerror}</p> : ''}
+                            </div>
+                           
+
                             <div className="form-control mt-6">
                                 <input className="btn btn-primary" type="submit" value="Sign Up" />
                             </div>
