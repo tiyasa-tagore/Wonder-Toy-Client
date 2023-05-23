@@ -8,16 +8,11 @@ const ToyDetails = () => {
 
     // Fetch the toy data when component mounts
     useEffect(() => {
-        fetch(`https://b7a11-toy-marketplace-server-side-tiyasa-tagore.vercel.app/cars/${id}`) // Path to your JSON file
+        fetch(`https://b7a11-toy-marketplace-server-side-tiyasa-tagore.vercel.app/cars/${id}`) 
             .then(res => res.json())
             .then((data) => setAlltoys(data))
     })
 
-    // if (!alltoys) {
-    //     return <div>Loading...</div>; // Display a loading message while the data is being fetched
-    // }
-
-    // Render the toy details
     return (
         <div className='m-20'>
             <h1 className='text-3xl'>{alltoys.name}</h1>
