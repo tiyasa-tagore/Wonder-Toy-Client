@@ -6,7 +6,7 @@ const AllToys = () => {
     const [search, setSearch] = useState('');
 
     useEffect(() => {
-        fetch('http://localhost:5000/cars')
+        fetch('https://b7a11-toy-marketplace-server-side-tiyasa-tagore.vercel.app/cars')
             .then(res => res.json())
             .then(data => setAlltoys(data));
     }, [])
@@ -30,7 +30,7 @@ const AllToys = () => {
         placeholder="Search toys..." 
         onChange={e => setSearch(e.target.value)}
       />
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">{filteredToys.map((toy) => (
+      <div className="m-20">{filteredToys.map((toy) => (
         <ToyCard key={toy.id} toy={toy} />
       ))} </div>
       
