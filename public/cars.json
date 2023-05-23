@@ -1,0 +1,173 @@
+ [
+      {
+        "id": "001",
+        "name": "Speed Racer Car",
+        "sellerName": "John Doe",
+        "sellerEmail": "johndoe@example.com",
+        "subCategory": "Racing Cars",
+        "price": 30.00,
+        "rating": 4.7,
+        "availableQuantity": 25,
+        "description": "A sleek and stylish racing car toy that's perfect for high-speed adventures. Designed with realistic details.",
+        "pictureUrl": "https://i.ibb.co/Lnsq3FP/car24.jpg"
+      },
+      {
+        "id": "002",
+        "name": "Off-Road Monster Truck",
+        "sellerName": "Jane Doe",
+        "sellerEmail": "janedoe@example.com",
+        "subCategory": "Off-Road Vehicles",
+        "price": 40.00,
+        "rating": 4.8,
+        "availableQuantity": 15,
+        "description": "A rugged and durable monster truck toy designed for off-road adventures. Made with high-quality materials for long-lasting play.",
+        "pictureUrl": "https://i.ibb.co/ZdYqvVQ/car25.jpg"
+      },
+      {
+        "id": "003",
+        "name": "Vintage Model Car",
+        "sellerName": "John Doe",
+        "sellerEmail": "johndoe@example.com",
+        "subCategory": "Model Cars",
+        "price": 50.00,
+        "rating": 4.9,
+        "availableQuantity": 10,
+        "description": "A beautifully crafted vintage model car with a high level of detail. Perfect for collectors and car enthusiasts.",
+        "pictureUrl": "https://i.ibb.co/bJkFTgW/car22.jpg"
+      },
+      {
+        "id": "004",
+        "name": "Police Patrol Car",
+        "sellerName": "Jane Smith",
+        "sellerEmail": "janesmith@example.com",
+        "subCategory": "Emergency Vehicles",
+        "price": 22.00,
+        "rating": 4.6,
+        "availableQuantity": 30,
+        "description": "A toy police car with flashing lights and sound effects. Encourages imaginative play.",
+        "pictureUrl": "https://i.ibb.co/ZmTsLZc/car23.jpg"
+      },
+      {
+        "id": "005",
+        "name": "Remote Control Sports Car",
+        "sellerName": "Mark Johnson",
+        "sellerEmail": "markjohnson@example.com",
+        "subCategory": "Remote Control Cars",
+        "price": 45.00,
+        "rating": 4.7,
+        "availableQuantity": 20,
+        "description": "A high-speed remote control sports car with a range of 30 meters. Perfect for both indoor and outdoor play.",
+        "pictureUrl": "https://i.ibb.co/6cK7wsB/car15.jpg"
+      },
+      {
+        "id": "006",
+        "name": "Classic Convertible",
+        "sellerName": "Sara Davis",
+        "sellerEmail": "saradavis@example.com",
+        "subCategory": "Model Cars",
+        "price": 35.00,
+        "rating": 4.8,
+        "availableQuantity": 15,
+        "description": "A classic convertible model car with intricate details. Ideal for car enthusiasts and collectors.",
+        "pictureUrl": "https://i.ibb.co/fY6Kdt2/car10.jpg"
+      },
+      {
+        "id": "007",
+        "name": "Fire Rescue Truck",
+        "sellerName": "John Doe",
+        "sellerEmail": "johndoe@example.com",
+        "subCategory": "Emergency Vehicles",
+        "price": 28.00,
+        "rating": 4.6,
+        "availableQuantity": 25,
+        "description": "A fire rescue truck toy with extendable ladder and realistic sound effects. Promotes creative play.",
+        "pictureUrl": "https://i.ibb.co/pPT4PNN/car23.jpg"
+      },
+      {
+        "id": "008",
+        "name": "Mini Toy Car Set",
+        "sellerName": "Jane Doe",
+        "sellerEmail": "janedoe@example.com",
+        "subCategory": "Car Sets",
+        "price": 20.00,
+        "rating": 4.5,
+        "availableQuantity": 40,
+        "description": "A set of mini toy cars in various styles and colors. Great for individual play or sharing with friends.",
+        "pictureUrl": "https://i.ibb.co/sWLb9vp/car8.jpg"
+      },
+      {
+        "id": "009",
+        "name": "Amphibious RC Car",
+        "sellerName": "Mark Johnson",
+        "sellerEmail": "markjohnson@example.com",
+        "subCategory": "Remote Control Cars",
+        "price": 55.00,
+        "rating": 4.8,
+        "availableQuantity": 10,
+        "description": "An exciting remote control car that can drive on land and water. Offers hours of adventurous play.",
+        "pictureUrl": "https://i.ibb.co/p3572gk/car17.jpg"
+      },
+      {
+        "id": "010",
+        "name": "Construction Dump Truck",
+        "sellerName": "Sara Davis",
+        "sellerEmail":      "saradavis@example.com",
+        "subCategory": "Construction Vehicles",
+        "price": 32.00,
+        "rating": 4.4,
+        "availableQuantity": 20,
+        "description": "A robust toy dump truck, perfect for fun construction play. The back of the dump truck is moveable for added realism.",
+        "pictureUrl": "https://i.ibb.co/zxJnmzX/car7.jpg"
+      },
+      {
+        "id": "011",
+        "name": "Electric Train Set",
+        "sellerName": "John Doe",
+        "sellerEmail": "johndoe@example.com",
+        "subCategory": "Trains",
+        "price": 60.00,
+        "rating": 4.7,
+        "availableQuantity": 15,
+        "description": "An electric train set that provides fun and excitement. Features realistic sounds and lights. Easy to assemble.",
+        "pictureUrl": "https://i.ibb.co/9ZPmQF6/car16.jpg"
+      },
+      {
+        "id": "012",
+        "name": "Dinosaur Monster Truck",
+        "sellerName": "Jane Doe",
+        "sellerEmail": "janedoe@example.com",
+        "subCategory": "Fantasy Vehicles",
+        "price": 28.00,
+        "rating": 4.6,
+        "availableQuantity": 25,
+        "description": "A cool dinosaur-themed monster truck for kids who love dinosaurs and trucks. Sturdy design, perfect for off-road play.",
+        "pictureUrl": "https://i.ibb.co/JBd1pvd/car11.jpg"
+      },
+      {
+        "id": "013",
+        "name": "Formula 1 Model Car",
+        "sellerName": "Mark Johnson",
+        "sellerEmail": "markjohnson@example.com",
+        "subCategory": "Model Cars",
+        "price": 40.00,
+        "rating": 4.9,
+        "availableQuantity": 10,
+        "description": "A highly-detailed Formula 1 model car for collectors and racing fans. Made from high-quality materials.",
+        "pictureUrl": "https://i.ibb.co/3v6DnhS/car10.jpg"
+      },
+      {
+        "id": "014",
+        "name": "Futuristic Spaceship",
+        "sellerName": "Sara Davis",
+        "sellerEmail": "saradavis@example.com",
+        "subCategory": "Fantasy Vehicles",
+        "price": 35.00,
+        "rating": 4.8,
+        "availableQuantity": 20,
+        "description": "A futuristic spaceship toy that encourages imaginative play. Features lights and sounds for added fun.",
+        "pictureUrl": "https://i.ibb.co/Tvz7cFj/car2.jpg"
+      }
+    ]
+  
+  
+  

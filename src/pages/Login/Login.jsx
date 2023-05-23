@@ -1,12 +1,12 @@
-import { useContext } from "react";
-import { Link } from "react-router-dom";
+import { useContext} from "react";
+import { Link,  } from "react-router-dom";
 import { AuthContext } from "../../Providers/AuthProvider";
 import img from '../../assets/img/login.jpeg'
 import { FaGoogle } from 'react-icons/fa';
 
 const Login = () => {
 
-    const { signIn, googleSignIn } = useContext(AuthContext);
+    const { signIn,googleSignIn, } = useContext(AuthContext);
 
     const handleLogin = event => {
         event.preventDefault();
@@ -20,6 +20,22 @@ const Login = () => {
                 console.log(user);
             })
             .catch(error => console.log(error));
+
+    //         // eslint-disable-next-line react-hooks/rules-of-hooks
+    //         const navigate = useNavigate();
+    //         const location = useLocation();
+
+
+    //         let from = location.state?.from?.pathname || "/";
+
+    // // Redirecting to other page;
+    // // eslint-disable-next-line react-hooks/rules-of-hooks
+    // useEffect(() => {
+    //     if (!loading && user) {
+    //         navigate(from, { replace: true })
+    //     }
+    // // eslint-disable-next-line react-hooks/exhaustive-deps
+    // }, [user])
     }
     return (
         <div className="hero min-h-screen bg-base-200">
