@@ -1,5 +1,4 @@
-{
-    "categories": [
+[
         {
             "category": "Electric Toy Cars",
             "category_id": "1",
@@ -61,5 +60,5 @@
                 }
             ]
         }
+ 
     ]
-}
