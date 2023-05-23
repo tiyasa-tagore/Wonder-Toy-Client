@@ -1,6 +1,6 @@
  [
       {
-        "id": "001",
+        "__id": "001",
         "name": "Speed Racer Car",
         "sellerName": "John Doe",
         "sellerEmail": "johndoe@example.com",
@@ -12,7 +12,7 @@
         "pictureUrl": "https://i.ibb.co/Lnsq3FP/car24.jpg"
       },
       {
-        "id": "002",
+        "_id": "002",
         "name": "Off-Road Monster Truck",
         "sellerName": "Jane Doe",
         "sellerEmail": "janedoe@example.com",
@@ -24,7 +24,7 @@
         "pictureUrl": "https://i.ibb.co/ZdYqvVQ/car25.jpg"
       },
       {
-        "id": "003",
+        "_id": "003",
         "name": "Vintage Model Car",
         "sellerName": "John Doe",
         "sellerEmail": "johndoe@example.com",
@@ -36,7 +36,7 @@
         "pictureUrl": "https://i.ibb.co/bJkFTgW/car22.jpg"
       },
       {
-        "id": "004",
+        "_id": "004",
         "name": "Police Patrol Car",
         "sellerName": "Jane Smith",
         "sellerEmail": "janesmith@example.com",
@@ -48,7 +48,7 @@
         "pictureUrl": "https://i.ibb.co/ZmTsLZc/car23.jpg"
       },
       {
-        "id": "005",
+        "_id": "005",
         "name": "Remote Control Sports Car",
         "sellerName": "Mark Johnson",
         "sellerEmail": "markjohnson@example.com",
@@ -60,7 +60,7 @@
         "pictureUrl": "https://i.ibb.co/6cK7wsB/car15.jpg"
       },
       {
-        "id": "006",
+        "_id": "006",
         "name": "Classic Convertible",
         "sellerName": "Sara Davis",
         "sellerEmail": "saradavis@example.com",
@@ -68,11 +68,11 @@
         "price": 35.00,
         "rating": 4.8,
         "availableQuantity": 15,
-        "description": "A classic convertible model car with intricate details. Ideal for car enthusiasts and collectors.",
+        "description": "A classic convertible model car with intricate details. _ideal for car enthusiasts and collectors.",
         "pictureUrl": "https://i.ibb.co/fY6Kdt2/car10.jpg"
       },
       {
-        "id": "007",
+        "_id": "007",
         "name": "Fire Rescue Truck",
         "sellerName": "John Doe",
         "sellerEmail": "johndoe@example.com",
@@ -84,7 +84,7 @@
         "pictureUrl": "https://i.ibb.co/pPT4PNN/car23.jpg"
       },
       {
-        "id": "008",
+        "_id": "008",
         "name": "Mini Toy Car Set",
         "sellerName": "Jane Doe",
         "sellerEmail": "janedoe@example.com",
@@ -92,11 +92,11 @@
         "price": 20.00,
         "rating": 4.5,
         "availableQuantity": 40,
-        "description": "A set of mini toy cars in various styles and colors. Great for individual play or sharing with friends.",
+        "description": "A set of mini toy cars in various styles and colors. Great for indiv_idual play or sharing with friends.",
         "pictureUrl": "https://i.ibb.co/sWLb9vp/car8.jpg"
       },
       {
-        "id": "009",
+        "_id": "009",
         "name": "Amphibious RC Car",
         "sellerName": "Mark Johnson",
         "sellerEmail": "markjohnson@example.com",
@@ -108,7 +108,7 @@
         "pictureUrl": "https://i.ibb.co/p3572gk/car17.jpg"
       },
       {
-        "id": "010",
+        "_id": "010",
         "name": "Construction Dump Truck",
         "sellerName": "Sara Davis",
         "sellerEmail":      "saradavis@example.com",
@@ -120,7 +120,7 @@
         "pictureUrl": "https://i.ibb.co/zxJnmzX/car7.jpg"
       },
       {
-        "id": "011",
+        "_id": "011",
         "name": "Electric Train Set",
         "sellerName": "John Doe",
         "sellerEmail": "johndoe@example.com",
@@ -128,11 +128,11 @@
         "price": 60.00,
         "rating": 4.7,
         "availableQuantity": 15,
-        "description": "An electric train set that provides fun and excitement. Features realistic sounds and lights. Easy to assemble.",
+        "description": "An electric train set that prov_ides fun and excitement. Features realistic sounds and lights. Easy to assemble.",
         "pictureUrl": "https://i.ibb.co/9ZPmQF6/car16.jpg"
       },
       {
-        "id": "012",
+        "_id": "012",
         "name": "Dinosaur Monster Truck",
         "sellerName": "Jane Doe",
         "sellerEmail": "janedoe@example.com",
@@ -140,11 +140,11 @@
         "price": 28.00,
         "rating": 4.6,
         "availableQuantity": 25,
-        "description": "A cool dinosaur-themed monster truck for kids who love dinosaurs and trucks. Sturdy design, perfect for off-road play.",
+        "description": "A cool dinosaur-themed monster truck for k_ids who love dinosaurs and trucks. Sturdy design, perfect for off-road play.",
         "pictureUrl": "https://i.ibb.co/JBd1pvd/car11.jpg"
       },
       {
-        "id": "013",
+        "_id": "013",
         "name": "Formula 1 Model Car",
         "sellerName": "Mark Johnson",
         "sellerEmail": "markjohnson@example.com",
@@ -156,7 +156,7 @@
         "pictureUrl": "https://i.ibb.co/3v6DnhS/car10.jpg"
       },
       {
-        "id": "014",
+        "_id": "014",
         "name": "Futuristic Spaceship",
         "sellerName": "Sara Davis",
         "sellerEmail": "saradavis@example.com",
@@ -168,6 +168,7 @@
         "pictureUrl": "https://i.ibb.co/Tvz7cFj/car2.jpg"
       }
     ]
+    
   
   
   
