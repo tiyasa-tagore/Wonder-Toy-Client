@@ -1,0 +1,65 @@
+{
+    "categories": [
+        {
+            "category": "Electric Toy Cars",
+            "category_id": "1",
+            "toys": [
+                
+                {
+                    "picture": "https://i.ibb.co/Lnsq3FP/car24.jpg",
+                    "name": "Action Figure 1",
+                    "price": "$20.00",
+                    "rating": "4.5",
+                    "details": "Classic design"
+                },
+                {
+                    "picture": "https://i.ibb.co/ZdYqvVQ/car25.jpg",
+                    "name": "Action Figure 2",
+                    "price": "$25.00",
+                    "rating": "4.7",
+                    "details": "Need battery"
+                }
+            ]
+        },
+        {
+            "category": "Police Cars",
+            "category_id": "2",
+            "toys": [
+                {
+                    "picture": "https://i.ibb.co/bJkFTgW/car22.jpg",
+                    "name": "Educational Toy 1",
+                    "price": "$15.00",
+                    "rating": "4.6",
+                    "details": "Fine color"
+                },
+                {
+                    "picture": "https://i.ibb.co/ZmTsLZc/car23.jpg",
+                    "name": "Educational Toy 2",
+                    "price": "$18.00",
+                    "rating": "4.8",
+                    "details": "Classic look"
+                }
+            ]
+        },
+        {
+            "category": "Jeep Cars",
+            "category_id": "3",
+            "toys": [
+                {
+                    "picture": "https://i.ibb.co/6cK7wsB/car15.jpg",
+                    "name": "Doll 1",
+                    "price": "$30.00",
+                    "rating": "4.2",
+                    "details": "fast and smooth"
+                },
+                {
+                    "picture": "https://i.ibb.co/fY6Kdt2/car10.jpg",
+                    "name": "Doll 2",
+                    "price": "$35.00",
+                    "rating": "4.4",
+                    "details": "very fast"
+                }
+            ]
+        }
+    ]
+}
