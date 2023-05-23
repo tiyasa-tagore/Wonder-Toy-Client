@@ -1,6 +1,5 @@
  [
       {
-        "__id": "001",
         "name": "Speed Racer Car",
         "sellerName": "John Doe",
         "sellerEmail": "johndoe@example.com",
@@ -12,7 +11,6 @@
         "pictureUrl": "https://i.ibb.co/Lnsq3FP/car24.jpg"
       },
       {
-        "_id": "002",
         "name": "Off-Road Monster Truck",
         "sellerName": "Jane Doe",
         "sellerEmail": "janedoe@example.com",
@@ -24,7 +22,6 @@
         "pictureUrl": "https://i.ibb.co/ZdYqvVQ/car25.jpg"
       },
       {
-        "_id": "003",
         "name": "Vintage Model Car",
         "sellerName": "John Doe",
         "sellerEmail": "johndoe@example.com",
@@ -36,7 +33,6 @@
         "pictureUrl": "https://i.ibb.co/bJkFTgW/car22.jpg"
       },
       {
-        "_id": "004",
         "name": "Police Patrol Car",
         "sellerName": "Jane Smith",
         "sellerEmail": "janesmith@example.com",
@@ -48,7 +44,6 @@
         "pictureUrl": "https://i.ibb.co/ZmTsLZc/car23.jpg"
       },
       {
-        "_id": "005",
         "name": "Remote Control Sports Car",
         "sellerName": "Mark Johnson",
         "sellerEmail": "markjohnson@example.com",
@@ -60,7 +55,6 @@
         "pictureUrl": "https://i.ibb.co/6cK7wsB/car15.jpg"
       },
       {
-        "_id": "006",
         "name": "Classic Convertible",
         "sellerName": "Sara Davis",
         "sellerEmail": "saradavis@example.com",
@@ -72,7 +66,6 @@
         "pictureUrl": "https://i.ibb.co/fY6Kdt2/car10.jpg"
       },
       {
-        "_id": "007",
         "name": "Fire Rescue Truck",
         "sellerName": "John Doe",
         "sellerEmail": "johndoe@example.com",
@@ -84,7 +77,6 @@
         "pictureUrl": "https://i.ibb.co/pPT4PNN/car23.jpg"
       },
       {
-        "_id": "008",
         "name": "Mini Toy Car Set",
         "sellerName": "Jane Doe",
         "sellerEmail": "janedoe@example.com",
@@ -96,7 +88,6 @@
         "pictureUrl": "https://i.ibb.co/sWLb9vp/car8.jpg"
       },
       {
-        "_id": "009",
         "name": "Amphibious RC Car",
         "sellerName": "Mark Johnson",
         "sellerEmail": "markjohnson@example.com",
@@ -108,7 +99,6 @@
         "pictureUrl": "https://i.ibb.co/p3572gk/car17.jpg"
       },
       {
-        "_id": "010",
         "name": "Construction Dump Truck",
         "sellerName": "Sara Davis",
         "sellerEmail":      "saradavis@example.com",
@@ -120,7 +110,6 @@
         "pictureUrl": "https://i.ibb.co/zxJnmzX/car7.jpg"
       },
       {
-        "_id": "011",
         "name": "Electric Train Set",
         "sellerName": "John Doe",
         "sellerEmail": "johndoe@example.com",
@@ -132,8 +121,7 @@
         "pictureUrl": "https://i.ibb.co/9ZPmQF6/car16.jpg"
       },
       {
-        "_id": "012",
-        "name": "Dinosaur Monster Truck",
+        "name": "Dinosaur Monster ",
         "sellerName": "Jane Doe",
         "sellerEmail": "janedoe@example.com",
         "subCategory": "Fantasy Vehicles",
@@ -144,9 +132,8 @@
         "pictureUrl": "https://i.ibb.co/JBd1pvd/car11.jpg"
       },
       {
-        "_id": "013",
-        "name": "Formula 1 Model Car",
-        "sellerName": "Mark Johnson",
+        "name": "Formula 1000 Model Car",
+        "sellerName": " Johnson",
         "sellerEmail": "markjohnson@example.com",
         "subCategory": "Model Cars",
         "price": 40.00,
@@ -156,8 +143,18 @@
         "pictureUrl": "https://i.ibb.co/3v6DnhS/car10.jpg"
       },
       {
-        "_id": "014",
-        "name": "Futuristic Spaceship",
+        "name": "Futuristic S",
+        "sellerName": " Davis",
+        "sellerEmail": "saradavis@example.com",
+        "subCategory": "Fantasy Vehicles",
+        "price": 35.00,
+        "rating": 4.8,
+        "availableQuantity": 20,
+        "description": "A futuristic spaceship toy that encourages imaginative play. Features lights and sounds for added fun.",
+        "pictureUrl": "https://i.ibb.co/Tvz7cFj/car2.jpg"
+      },
+      {
+        "name": "Futuri ",
         "sellerName": "Sara Davis",
         "sellerEmail": "saradavis@example.com",
         "subCategory": "Fantasy Vehicles",
@@ -166,6 +163,94 @@
         "availableQuantity": 20,
         "description": "A futuristic spaceship toy that encourages imaginative play. Features lights and sounds for added fun.",
         "pictureUrl": "https://i.ibb.co/Tvz7cFj/car2.jpg"
+      },
+      {
+        "name": "Fire  Truck",
+        "sellerName": "John Doe",
+        "sellerEmail": "johndoe@example.com",
+        "subCategory": "Emergency Vehicles",
+        "price": 28.00,
+        "rating": 4.6,
+        "availableQuantity": 25,
+        "description": "A fire rescue truck toy with extendable ladder and realistic sound effects. Promotes creative play.",
+        "pictureUrl": "https://i.ibb.co/pPT4PNN/car23.jpg"
+      },
+      {
+        "name": "Mini  Set",
+        "sellerName": "Jane Doe",
+        "sellerEmail": "janedoe@example.com",
+        "subCategory": "Car Sets",
+        "price": 20.00,
+        "rating": 4.5,
+        "availableQuantity": 40,
+        "description": "A set of mini toy cars in various styles and colors. Great for indiv_idual play or sharing with friends.",
+        "pictureUrl": "https://i.ibb.co/sWLb9vp/car8.jpg"
+      },
+      {
+        "name": "Amphibious Car",
+        "sellerName": "Mark Johnson",
+        "sellerEmail": "markjohnson@example.com",
+        "subCategory": "Remote Control Cars",
+        "price": 55.00,
+        "rating": 4.8,
+        "availableQuantity": 10,
+        "description": "An exciting remote control car that can drive on land and water. Offers hours of adventurous play.",
+        "pictureUrl": "https://i.ibb.co/p3572gk/car17.jpg"
+      },
+      {
+        "name": "Construction Dump Truck",
+        "sellerName": " Davis",
+        "sellerEmail":      "saradavis@example.com",
+        "subCategory": "Construction Vehicles",
+        "price": 32.00,
+        "rating": 4.4,
+        "availableQuantity": 20,
+        "description": "A robust toy dump truck, perfect for fun construction play. The back of the dump truck is moveable for added realism.",
+        "pictureUrl": "https://i.ibb.co/zxJnmzX/car7.jpg"
+      },
+      {
+        "name": "Speedui Car",
+        "sellerName": "John ",
+        "sellerEmail": "johndoe@example.com",
+        "subCategory": "Racing Cars",
+        "price": 30.00,
+        "rating": 4.7,
+        "availableQuantity": 25,
+        "description": "A sleek and stylish racing car toy that's perfect for high-speed adventures. Designed with realistic details.",
+        "pictureUrl": "https://i.ibb.co/Lnsq3FP/car24.jpg"
+      },
+      {
+        "name": "Off-Road Monster Truck",
+        "sellerName": "Jane Doe",
+        "sellerEmail": "janedoe@example.com",
+        "subCategory": "Off-Road Vehicles",
+        "price": 40.00,
+        "rating": 4.8,
+        "availableQuantity": 15,
+        "description": "A rugged and durable monster truck toy designed  adventures. Made with high-quality materials for long-lasting play.",
+        "pictureUrl": "https://i.ibb.co/ZdYqvVQ/car25.jpg"
+      },
+      {
+        "name": "Vintage  Car",
+        "sellerName": "John Doe",
+        "sellerEmail": "johndoe@example.com",
+        "subCategory": "Model Cars",
+        "price": 50.00,
+        "rating": 4.9,
+        "availableQuantity": 10,
+        "description": "A beautifully crafted vintage model car with a high level of detail. Perfect for collectors and car enthusiasts.",
+        "pictureUrl": "https://i.ibb.co/bJkFTgW/car22.jpg"
+      },
+      {
+        "name": "Patrol Car",
+        "sellerName": "Jane ",
+        "sellerEmail": "janesmith@example.com",
+        "subCategory": "Emergency Vehicles",
+        "price": 22.00,
+        "rating": 4.6,
+        "availableQuantity": 30,
+        "description": "A toy police car with flashing lights and sound effects. Encourages imaginative play.",
+        "pictureUrl": "https://i.ibb.co/ZmTsLZc/car23.jpg"
       }
     ]
     

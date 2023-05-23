@@ -21,7 +21,10 @@ const ToyCard = ({ toy }) => {
                 <p className="text-xl text-orange-500">Price: ${price}</p>
                 <div className="card-actions">
                     <Link to={`/addatoy/${_id}`}>
-                        <button className="btn btn-primary">Book Now</button>
+                        <button className="btn btn-primary">Buy Now</button>
+                    </Link>
+                    <Link to={`/toydetails/${_id}`}>
+                        <button className="btn btn-primary">View deatils</button>
                     </Link>
                 </div>
             </div>
