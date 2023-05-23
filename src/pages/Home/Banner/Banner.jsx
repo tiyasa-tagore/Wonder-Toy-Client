@@ -3,6 +3,9 @@ import img1 from '../../../assets/img/car1.jpg'
 import img2 from '../../../assets/img/car2.jpg'
 import img3 from '../../../assets/img/car3.jpg'
 import img4 from '../../../assets/img/car4.jpg'
+import { Tab, TabList, TabPanel, Tabs } from 'react-tabs';
+import "react-tabs/style/react-tabs.css";
+
 const Banner = () => {
     return (
         
@@ -63,6 +66,20 @@ const Banner = () => {
                 </div>
                 </div>
         </div>
+        <div className='m-20'>
+
+        <h3 className="font-bold text-3xl text-center mb-5 ">Shop by Category</h3>
+
+      <Tabs className='text-center '>
+        <TabList>
+          <Tab>Models</Tab>
+          <Tab>Electric Toy Cars</Tab>
+          <Tab>Police Cars</Tab>
+          <Tab>Jeep Cars</Tab>
+        </TabList>
+        <TabPanel></TabPanel>
+      </Tabs>
+       </div>
        </div>
 );
 };
